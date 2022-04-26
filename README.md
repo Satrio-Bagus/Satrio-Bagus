@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Satrio Bagus
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back-End Programming
+- 🌱 I’m currently learning Laravel
 ✨✨
 
 ### Social Media
